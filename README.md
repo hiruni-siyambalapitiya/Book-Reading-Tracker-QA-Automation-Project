@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./images/banner.png" alt="Whispering Pages - Software Quality Assurance Testing Project" width="100%">
+</p>
+
+
 # Whispering Pages – Software Quality Assurance Testing Project
 
 ## Project Overview
